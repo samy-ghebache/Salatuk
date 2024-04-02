@@ -1,0 +1,22 @@
+.Salat {
+  text-align: center;
+  background-color: white;
+  border-radius: 5px;
+  margin-top: 20px;
+  display: grid;
+}
+.Salat img {
+  height: 120px;
+  width: 100%;
+  border-radius: 5px 5px 0 0;
+}
+
+.Salat p {
+  font-weight: lighter;
+  font-size: 60px;
+  letter-spacing: 2px;
+}
+.Salat h3,
+.Salat p {
+  margin: 10px 0;
+}
