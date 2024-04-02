@@ -1,3 +1,16 @@
+Salatuk is a comprehensive application designed to assist Muslims worldwide in managing their prayer times effectively. It offers a user-friendly interface and robust features to enhance the prayer experience.
+
+## Feature
+
+### 1. Prayer Time Monitoring
+
+Salatuk provides accurate prayer times based on the user's selected location.
+Users can easily view the timings for each of the five daily prayers: Fajr, Dhuhr, Asr, Maghrib, and Isha.
+
+### 2. Remaining Time Calculation
+
+The application calculates the remaining time for each prayer, allowing users to plan their day effectively around their prayer schedule.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
