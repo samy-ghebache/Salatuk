@@ -1,4 +1,4 @@
-Salatuk is a comprehensive application designed to assist Muslims worldwide in managing their prayer times effectively. It offers a user-friendly interface and robust features to enhance the prayer experience.
+Salatuk is a comprehensive React application designed to assist Muslims worldwide in managing their prayer times effectively. It offers a user-friendly interface and robust features to enhance the prayer experience.
 
 ## Feature
 
